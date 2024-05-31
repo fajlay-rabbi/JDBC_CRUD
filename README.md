@@ -23,4 +23,4 @@ This project demonstrates CRUD (Create, Read, Update, Delete) operations using J
 Clone the repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/fajlay-rabbi/JDBC_CRUD.git
